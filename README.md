@@ -4,7 +4,6 @@ You need to view the file in "Read Mode" to see the contents properly after down
 
 A Brief Introduction
 ======================
-Background
 
 This is a post outlining a ShinyApp that I made for visualising inter-participant agreement on quesions relating to Haidt’s Moral Foundations (e.g., Haidt and Joseph 2008). This is part of a line of research on moral judgements, inspired by DAFINET project, where I aim to investigate the role of agreement with others in the robustness of moral judgements. It is very early days and for the moment I am just playing around with the possible methods.
 
